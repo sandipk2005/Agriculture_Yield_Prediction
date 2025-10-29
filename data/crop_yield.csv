@@ -1,0 +1,781 @@
+Year,State,Crop,Rainfall(mm),Temperature(C),Fertilizer(kg/ha),Yield(ton/ha)
+2000,Maharashtra,Wheat,974.54,34.26,209.8,2.39
+2000,Maharashtra,Rice,756.02,22.34,108.71,1.7
+2000,Maharashtra,Maize,1201.12,30.62,103.09,2.18
+2000,Maharashtra,Sugarcane,1432.44,23.19,127.27,2.79
+2000,Maharashtra,Cotton,904.24,27.87,164.79,1.94
+2000,Punjab,Wheat,1211.85,22.09,143.82,2.68
+2000,Punjab,Rice,1056.07,31.78,129.95,1.83
+2000,Punjab,Maize,1192.41,20.7,191.13,3.06
+2000,Punjab,Sugarcane,665.05,34.23,244.84,2.25
+2000,Punjab,Cotton,904.61,21.47,202.63,2.73
+2000,Karnataka,Wheat,722.04,27.43,105.16,1.37
+2000,Karnataka,Rice,858.78,29.94,146.76,1.7
+2000,Karnataka,Maize,1146.71,22.77,245.44,3.77
+2000,Karnataka,Sugarcane,1539.5,33.42,189.68,3.56
+2000,Karnataka,Cotton,688.49,22.94,106.78,1.19
+2000,Tamil Nadu,Wheat,988.68,24.07,224.31,2.93
+2000,Tamil Nadu,Rice,880.93,28.14,121.14,1.75
+2000,Tamil Nadu,Maize,674.55,34.8,215.84,1.59
+2000,Tamil Nadu,Sugarcane,605.52,32.23,206.03,1.8
+2000,Tamil Nadu,Cotton,1371.27,21.11,153.77,2.99
+2000,Uttar Pradesh,Wheat,1463.1,29.35,149.63,2.69
+2000,Uttar Pradesh,Rice,910.98,24.88,209.44,2.76
+2000,Uttar Pradesh,Maize,1487.21,27.08,117.94,2.93
+2000,Uttar Pradesh,Sugarcane,1360.79,28.42,215.65,3.45
+2000,Uttar Pradesh,Cotton,1122.73,26.41,103.81,1.73
+2000,Gujarat,Wheat,631.43,29.55,147.15,1.26
+2000,Gujarat,Rice,1507.57,23.74,161.56,3.6
+2000,Gujarat,Maize,828.8,21.15,143.46,1.83
+2000,Gujarat,Sugarcane,1529.7,32.12,195.01,3.63
+2000,Gujarat,Cotton,1403.67,22.8,233.88,4.03
+2001,Maharashtra,Wheat,1407.44,33.44,147.7,2.39
+2001,Maharashtra,Rice,827.94,26.41,222.7,2.78
+2001,Maharashtra,Maize,606.95,27.66,162.61,1.29
+2001,Maharashtra,Sugarcane,719.87,25.06,241.44,2.49
+2001,Maharashtra,Cotton,1118.79,30.55,154.54,2.54
+2001,Punjab,Wheat,1562.45,23.78,174.59,3.56
+2001,Punjab,Rice,884.84,20.55,191.43,2.66
+2001,Punjab,Maize,651.48,24.18,236.24,2.3
+2001,Punjab,Sugarcane,744.89,27.34,247.85,2.45
+2001,Punjab,Cotton,1272.14,31.42,135.65,2.47
+2001,Karnataka,Wheat,967.78,29.48,195.03,2.43
+2001,Karnataka,Rice,690.29,32.53,148.12,1.05
+2001,Karnataka,Maize,640.78,28.86,201.63,1.56
+2001,Karnataka,Sugarcane,1112.09,23.4,196.78,2.83
+2001,Karnataka,Cotton,1290.94,25.8,240.51,3.48
+2001,Tamil Nadu,Wheat,941.07,21.7,238.7,3.41
+2001,Tamil Nadu,Rice,857.94,29.9,222.58,2.48
+2001,Tamil Nadu,Maize,1129.65,23.63,113.97,2.46
+2001,Tamil Nadu,Sugarcane,1500.42,29.5,150.85,2.94
+2001,Tamil Nadu,Cotton,1325.96,33.46,233.06,3.48
+2001,Uttar Pradesh,Wheat,1242.03,21.26,124.24,2.9
+2001,Uttar Pradesh,Rice,1206.43,20.14,115.22,2.66
+2001,Uttar Pradesh,Maize,605.06,22.41,182.31,2.03
+2001,Uttar Pradesh,Sugarcane,1251.96,23.36,206.83,3.25
+2001,Uttar Pradesh,Cotton,925.4,31.2,197.44,2.47
+2001,Gujarat,Wheat,1257.61,28.52,114.05,2.15
+2001,Gujarat,Rice,865.2,23.66,245.95,2.94
+2001,Gujarat,Maize,1492.05,29.47,219.22,3.7
+2001,Gujarat,Sugarcane,1176.9,27.39,129.29,2.41
+2001,Gujarat,Cotton,880.77,20.36,196.82,2.52
+2002,Maharashtra,Wheat,1540.46,34.31,237.23,3.66
+2002,Maharashtra,Rice,615.46,33.92,164.23,1.46
+2002,Maharashtra,Maize,1563.62,32.8,144.17,2.86
+2002,Maharashtra,Sugarcane,1451.14,24.75,125.42,2.95
+2002,Maharashtra,Cotton,1536.15,30.44,185.51,3.16
+2002,Punjab,Wheat,1215.01,34.85,121.01,1.91
+2002,Punjab,Rice,1477.37,31.11,204.55,3.57
+2002,Punjab,Maize,959.49,24.4,221.4,3.1
+2002,Punjab,Sugarcane,1467.07,33.7,176.7,3.02
+2002,Punjab,Cotton,1398.3,29.75,205.3,3.54
+2002,Karnataka,Wheat,1490.01,25.07,156.34,3.05
+2002,Karnataka,Rice,1178.28,20.54,169.84,3.05
+2002,Karnataka,Maize,886.54,28.86,104.58,1.1
+2002,Karnataka,Sugarcane,1422.6,25.4,119.06,2.78
+2002,Karnataka,Cotton,1369.99,23.24,193.43,3.26
+2002,Tamil Nadu,Wheat,651.68,27.97,181.1,1.8
+2002,Tamil Nadu,Rice,1326.09,34.64,177.45,2.59
+2002,Tamil Nadu,Maize,1395.19,24.06,165.85,2.99
+2002,Tamil Nadu,Sugarcane,625.35,34.44,225.4,1.9
+2002,Tamil Nadu,Cotton,1008.95,22.6,123.47,1.97
+2002,Uttar Pradesh,Wheat,1149.23,30.72,199.03,2.62
+2002,Uttar Pradesh,Rice,1554.87,31.07,183.15,3.45
+2002,Uttar Pradesh,Maize,1019.6,23.72,153.4,2.54
+2002,Uttar Pradesh,Sugarcane,614.39,21.74,106.9,0.94
+2002,Uttar Pradesh,Cotton,1455.46,30.55,171.13,2.85
+2002,Gujarat,Wheat,1091.62,27.1,125.98,2.05
+2002,Gujarat,Rice,998.5,29.24,195.26,2.21
+2002,Gujarat,Maize,974.61,29.39,175.47,2.45
+2002,Gujarat,Sugarcane,1258.69,22.44,110.59,2.59
+2002,Gujarat,Cotton,626.51,28.79,241.03,2.27
+2003,Maharashtra,Wheat,988.17,29.65,168.74,2.21
+2003,Maharashtra,Rice,1541.46,25.79,244.18,4.48
+2003,Maharashtra,Maize,795.79,21.04,115.12,1.4
+2003,Maharashtra,Sugarcane,694.44,30.25,110.68,0.87
+2003,Maharashtra,Cotton,1444.88,20.35,222.17,3.96
+2003,Punjab,Wheat,718.16,30.45,194.34,2.08
+2003,Punjab,Rice,1335.07,32.05,142.31,2.3
+2003,Punjab,Maize,1350.61,32.1,248.58,3.53
+2003,Punjab,Sugarcane,972.02,31.65,151.12,2.13
+2003,Punjab,Cotton,1458.41,26.43,212.63,3.87
+2003,Karnataka,Wheat,703.12,33.54,175.79,1.68
+2003,Karnataka,Rice,920.05,33.43,158.38,1.46
+2003,Karnataka,Maize,1505.38,21.37,147.9,3.69
+2003,Karnataka,Sugarcane,1550.61,28.6,194.78,3.59
+2003,Karnataka,Cotton,893.21,24.93,200.88,2.7
+2003,Tamil Nadu,Wheat,1391.58,31.84,113.68,2.32
+2003,Tamil Nadu,Rice,657.56,28.24,166.23,1.8
+2003,Tamil Nadu,Maize,950.92,21.76,121.45,2.19
+2003,Tamil Nadu,Sugarcane,1218.22,21.52,112.62,2.61
+2003,Tamil Nadu,Cotton,672.76,32.33,205.94,1.54
+2003,Uttar Pradesh,Wheat,684.84,34.8,156.14,1.11
+2003,Uttar Pradesh,Rice,1412.8,34.21,247.9,3.75
+2003,Uttar Pradesh,Maize,976.26,21.25,216.57,3.09
+2003,Uttar Pradesh,Sugarcane,1024.22,33.6,116.68,1.53
+2003,Uttar Pradesh,Cotton,611.35,27.03,108.45,0.73
+2003,Gujarat,Wheat,717.53,29.74,211.91,2.12
+2003,Gujarat,Rice,1562.17,25.62,142.86,3.49
+2003,Gujarat,Maize,823.6,34.45,101.82,1.22
+2003,Gujarat,Sugarcane,643.16,33.37,179.16,1.71
+2003,Gujarat,Cotton,673.8,28.31,245.4,2.4
+2004,Maharashtra,Wheat,1229.4,30.44,168.18,2.7
+2004,Maharashtra,Rice,1184.31,33.52,106.82,1.63
+2004,Maharashtra,Maize,1550.41,33.35,168.35,3.19
+2004,Maharashtra,Sugarcane,877.38,22.82,169.55,2.22
+2004,Maharashtra,Cotton,1183.66,21.17,246.16,4.06
+2004,Punjab,Wheat,1298.16,28.04,146.43,2.85
+2004,Punjab,Rice,1284.73,22.44,236.64,4.01
+2004,Punjab,Maize,1549.8,30.89,192.01,3.43
+2004,Punjab,Sugarcane,1532.73,32.99,106.78,2.2
+2004,Punjab,Cotton,976.46,32.16,248.09,2.62
+2004,Karnataka,Wheat,1194.13,25.71,245.49,3.76
+2004,Karnataka,Rice,1438.33,27.03,162.22,3.01
+2004,Karnataka,Maize,656.38,32.97,221.94,2.18
+2004,Karnataka,Sugarcane,1596.64,28.33,215.35,4.2
+2004,Karnataka,Cotton,1449.65,23.71,167.58,3.17
+2004,Tamil Nadu,Wheat,1554.05,29.09,134.3,3.1
+2004,Tamil Nadu,Rice,1218.13,25.37,117.03,2.44
+2004,Tamil Nadu,Maize,1120.31,31.58,178.02,2.65
+2004,Tamil Nadu,Sugarcane,1151.91,28.41,231.5,3.14
+2004,Tamil Nadu,Cotton,734.02,20.43,213.27,2.65
+2004,Uttar Pradesh,Wheat,1304.08,23.19,120.46,2.36
+2004,Uttar Pradesh,Rice,950.59,28.85,158.84,2.01
+2004,Uttar Pradesh,Maize,1504.16,25.22,177.1,3.69
+2004,Uttar Pradesh,Sugarcane,996.54,29.33,229.35,3.09
+2004,Uttar Pradesh,Cotton,747.07,33.9,173.82,1.39
+2004,Gujarat,Wheat,1059.14,34.7,173.89,2.02
+2004,Gujarat,Rice,1233.4,23.6,111.38,2.18
+2004,Gujarat,Maize,728.05,22.28,120.82,1.63
+2004,Gujarat,Sugarcane,781.88,25.19,234.52,2.63
+2004,Gujarat,Cotton,1267.56,22.58,128.84,2.42
+2005,Maharashtra,Wheat,768.94,24.18,126.55,1.35
+2005,Maharashtra,Rice,720.64,26.91,130.95,1.32
+2005,Maharashtra,Maize,1103.42,30.36,105.9,1.93
+2005,Maharashtra,Sugarcane,1227.9,21.23,231.04,3.96
+2005,Maharashtra,Cotton,661.08,24.15,220.93,2.47
+2005,Punjab,Wheat,784.52,23.14,155.57,1.96
+2005,Punjab,Rice,1218.25,25.53,169.38,3.0
+2005,Punjab,Maize,636.68,23.79,207.0,2.39
+2005,Punjab,Sugarcane,1111.68,27.98,116.08,1.95
+2005,Punjab,Cotton,1132.62,23.64,140.39,2.41
+2005,Karnataka,Wheat,620.07,24.83,131.72,1.21
+2005,Karnataka,Rice,719.76,33.36,189.04,1.77
+2005,Karnataka,Maize,1389.17,27.48,113.04,2.56
+2005,Karnataka,Sugarcane,1186.84,31.18,164.75,2.24
+2005,Karnataka,Cotton,883.78,25.45,196.89,2.51
+2005,Tamil Nadu,Wheat,956.1,34.8,190.87,1.92
+2005,Tamil Nadu,Rice,701.78,22.29,136.89,1.45
+2005,Tamil Nadu,Maize,786.57,24.28,126.01,1.86
+2005,Tamil Nadu,Sugarcane,680.23,27.87,161.56,1.87
+2005,Tamil Nadu,Cotton,712.04,25.97,245.42,2.8
+2005,Uttar Pradesh,Wheat,1417.07,23.87,125.63,3.0
+2005,Uttar Pradesh,Rice,1529.38,28.35,185.74,3.37
+2005,Uttar Pradesh,Maize,1369.49,22.81,148.55,3.04
+2005,Uttar Pradesh,Sugarcane,1107.61,23.64,117.23,2.27
+2005,Uttar Pradesh,Cotton,888.63,28.72,123.15,1.56
+2005,Gujarat,Wheat,1132.59,20.78,150.49,2.51
+2005,Gujarat,Rice,663.37,34.85,148.35,1.25
+2005,Gujarat,Maize,854.64,30.22,214.03,2.4
+2005,Gujarat,Sugarcane,1071.58,26.18,152.33,2.62
+2005,Gujarat,Cotton,1430.62,34.48,118.64,2.46
+2006,Maharashtra,Wheat,1538.34,22.72,109.97,3.19
+2006,Maharashtra,Rice,1174.47,32.63,120.97,2.1
+2006,Maharashtra,Maize,801.63,22.45,124.64,1.92
+2006,Maharashtra,Sugarcane,1265.2,27.85,153.82,2.9
+2006,Maharashtra,Cotton,992.45,32.25,165.87,1.96
+2006,Punjab,Wheat,1062.68,24.52,212.14,3.02
+2006,Punjab,Rice,832.21,33.49,157.58,1.59
+2006,Punjab,Maize,1506.47,29.36,117.53,2.98
+2006,Punjab,Sugarcane,1227.71,25.02,120.89,2.59
+2006,Punjab,Cotton,1220.07,28.0,234.08,3.55
+2006,Karnataka,Wheat,751.67,24.68,137.27,1.79
+2006,Karnataka,Rice,633.53,28.55,214.37,2.21
+2006,Karnataka,Maize,942.08,32.32,116.59,1.64
+2006,Karnataka,Sugarcane,727.49,25.96,219.59,2.14
+2006,Karnataka,Cotton,829.25,30.83,208.01,2.28
+2006,Tamil Nadu,Wheat,1293.95,28.14,137.77,2.47
+2006,Tamil Nadu,Rice,781.6,33.63,187.51,1.7
+2006,Tamil Nadu,Maize,1062.01,34.21,123.0,1.7
+2006,Tamil Nadu,Sugarcane,1105.89,29.17,102.72,2.0
+2006,Tamil Nadu,Cotton,1532.12,28.48,204.5,3.94
+2006,Uttar Pradesh,Wheat,1307.24,22.29,186.44,3.43
+2006,Uttar Pradesh,Rice,1024.13,31.05,240.16,3.15
+2006,Uttar Pradesh,Maize,1050.84,21.7,247.73,3.7
+2006,Uttar Pradesh,Sugarcane,724.66,33.81,230.48,2.07
+2006,Uttar Pradesh,Cotton,1191.28,25.99,108.21,2.07
+2006,Gujarat,Wheat,1402.85,20.07,150.02,3.24
+2006,Gujarat,Rice,1137.4,33.8,151.95,2.01
+2006,Gujarat,Maize,1337.5,26.78,133.69,2.64
+2006,Gujarat,Sugarcane,740.86,22.65,174.76,2.05
+2006,Gujarat,Cotton,1514.85,25.44,187.09,3.71
+2007,Maharashtra,Wheat,613.09,29.95,126.71,1.27
+2007,Maharashtra,Rice,748.66,26.22,112.8,1.61
+2007,Maharashtra,Maize,1102.2,28.93,110.06,2.01
+2007,Maharashtra,Sugarcane,809.91,33.47,130.77,1.07
+2007,Maharashtra,Cotton,636.55,27.08,184.73,1.51
+2007,Punjab,Wheat,1375.53,26.8,178.66,3.16
+2007,Punjab,Rice,1000.76,28.39,123.29,1.62
+2007,Punjab,Maize,1461.79,34.19,156.0,2.64
+2007,Punjab,Sugarcane,1244.0,26.13,103.81,2.01
+2007,Punjab,Cotton,1315.97,29.88,104.06,2.01
+2007,Karnataka,Wheat,831.07,30.08,102.96,0.95
+2007,Karnataka,Rice,1399.92,22.68,197.91,3.49
+2007,Karnataka,Maize,699.44,23.65,208.34,2.51
+2007,Karnataka,Sugarcane,1430.22,25.96,200.21,3.39
+2007,Karnataka,Cotton,893.15,33.45,101.95,0.88
+2007,Tamil Nadu,Wheat,807.89,20.4,127.22,1.92
+2007,Tamil Nadu,Rice,1021.42,33.39,222.62,2.5
+2007,Tamil Nadu,Maize,859.42,25.7,188.54,2.18
+2007,Tamil Nadu,Sugarcane,1224.15,26.14,182.81,2.93
+2007,Tamil Nadu,Cotton,894.47,34.23,214.54,2.01
+2007,Uttar Pradesh,Wheat,1468.47,27.31,234.18,4.09
+2007,Uttar Pradesh,Rice,1025.21,20.34,140.3,2.46
+2007,Uttar Pradesh,Maize,1233.48,23.87,120.9,2.68
+2007,Uttar Pradesh,Sugarcane,1584.4,27.89,125.75,2.9
+2007,Uttar Pradesh,Cotton,618.39,33.71,117.66,0.77
+2007,Gujarat,Wheat,874.06,28.31,197.71,2.51
+2007,Gujarat,Rice,806.42,20.16,120.53,2.05
+2007,Gujarat,Maize,1473.89,28.96,190.08,3.5
+2007,Gujarat,Sugarcane,775.37,33.72,162.82,1.42
+2007,Gujarat,Cotton,1118.92,20.7,124.94,2.59
+2008,Maharashtra,Wheat,682.8,29.05,136.8,1.21
+2008,Maharashtra,Rice,888.69,25.34,207.86,2.47
+2008,Maharashtra,Maize,1166.4,27.14,199.55,3.23
+2008,Maharashtra,Sugarcane,1332.57,23.22,104.68,2.41
+2008,Maharashtra,Cotton,1195.08,20.77,174.45,3.15
+2008,Punjab,Wheat,934.24,31.56,115.99,1.2
+2008,Punjab,Rice,1328.19,27.43,203.26,3.28
+2008,Punjab,Maize,846.4,32.29,219.91,2.39
+2008,Punjab,Sugarcane,872.15,28.85,154.15,1.6
+2008,Punjab,Cotton,1517.31,22.05,242.54,4.32
+2008,Karnataka,Wheat,785.13,28.13,230.94,2.61
+2008,Karnataka,Rice,1406.56,29.88,203.84,3.57
+2008,Karnataka,Maize,849.67,27.34,133.18,1.96
+2008,Karnataka,Sugarcane,1544.06,20.59,205.84,4.37
+2008,Karnataka,Cotton,780.58,28.52,237.32,2.23
+2008,Tamil Nadu,Wheat,1297.42,24.46,238.66,4.04
+2008,Tamil Nadu,Rice,1544.27,27.11,229.31,4.23
+2008,Tamil Nadu,Maize,919.1,32.43,105.55,1.33
+2008,Tamil Nadu,Sugarcane,830.01,21.81,111.54,1.8
+2008,Tamil Nadu,Cotton,939.87,30.87,109.8,1.32
+2008,Uttar Pradesh,Wheat,1139.49,31.86,147.81,2.24
+2008,Uttar Pradesh,Rice,1485.98,29.24,134.94,2.57
+2008,Uttar Pradesh,Maize,1470.1,20.32,231.21,4.25
+2008,Uttar Pradesh,Sugarcane,1539.07,31.98,249.69,3.89
+2008,Uttar Pradesh,Cotton,1367.19,26.03,171.98,3.23
+2008,Gujarat,Wheat,1473.68,34.76,215.24,3.31
+2008,Gujarat,Rice,1021.36,31.06,135.82,1.61
+2008,Gujarat,Maize,954.62,24.31,144.45,1.98
+2008,Gujarat,Sugarcane,642.09,20.27,248.16,2.71
+2008,Gujarat,Cotton,984.33,30.19,132.74,2.06
+2009,Maharashtra,Wheat,1386.35,21.34,162.64,3.56
+2009,Maharashtra,Rice,1544.73,27.01,192.01,3.46
+2009,Maharashtra,Maize,1591.17,23.48,241.41,4.51
+2009,Maharashtra,Sugarcane,1207.74,27.69,134.6,2.18
+2009,Maharashtra,Cotton,820.49,22.8,216.94,2.58
+2009,Punjab,Wheat,657.84,34.54,232.57,2.17
+2009,Punjab,Rice,1594.91,22.61,159.44,3.81
+2009,Punjab,Maize,1296.02,22.31,222.37,3.54
+2009,Punjab,Sugarcane,823.82,28.05,188.94,2.18
+2009,Punjab,Cotton,691.49,33.16,139.84,0.9
+2009,Karnataka,Wheat,1488.75,34.33,229.32,3.74
+2009,Karnataka,Rice,1255.24,28.26,113.05,2.17
+2009,Karnataka,Maize,972.69,23.9,208.51,2.83
+2009,Karnataka,Sugarcane,681.05,23.3,202.49,1.97
+2009,Karnataka,Cotton,1451.21,27.43,172.09,3.31
+2009,Tamil Nadu,Wheat,1424.68,25.22,201.7,3.64
+2009,Tamil Nadu,Rice,867.03,33.18,219.61,2.37
+2009,Tamil Nadu,Maize,1450.58,33.01,206.25,3.52
+2009,Tamil Nadu,Sugarcane,1297.47,30.2,192.79,3.16
+2009,Tamil Nadu,Cotton,758.61,33.21,230.78,1.88
+2009,Uttar Pradesh,Wheat,1425.82,21.93,150.27,3.4
+2009,Uttar Pradesh,Rice,760.76,32.27,224.82,2.16
+2009,Uttar Pradesh,Maize,606.39,24.31,192.54,2.21
+2009,Uttar Pradesh,Sugarcane,1231.81,23.9,195.1,3.24
+2009,Uttar Pradesh,Cotton,1379.85,21.6,214.15,3.85
+2009,Gujarat,Wheat,1562.99,25.13,194.89,4.08
+2009,Gujarat,Rice,702.51,34.06,203.18,1.47
+2009,Gujarat,Maize,900.96,30.62,110.1,1.42
+2009,Gujarat,Sugarcane,945.88,29.31,106.86,1.72
+2009,Gujarat,Cotton,1573.49,34.53,212.45,3.32
+2010,Maharashtra,Wheat,1358.26,20.37,103.32,2.63
+2010,Maharashtra,Rice,1088.64,31.56,202.49,2.59
+2010,Maharashtra,Maize,873.63,34.96,163.93,1.61
+2010,Maharashtra,Sugarcane,763.62,31.92,204.05,1.8
+2010,Maharashtra,Cotton,682.38,30.21,198.18,1.7
+2010,Punjab,Wheat,1550.86,22.27,164.85,3.9
+2010,Punjab,Rice,1019.73,29.58,159.64,2.02
+2010,Punjab,Maize,1583.98,26.14,234.11,4.04
+2010,Punjab,Sugarcane,813.1,20.47,197.75,2.5
+2010,Punjab,Cotton,1464.36,27.1,245.23,3.84
+2010,Karnataka,Wheat,1468.62,31.65,215.64,3.72
+2010,Karnataka,Rice,1361.02,29.39,119.69,2.17
+2010,Karnataka,Maize,1520.85,29.25,219.48,3.76
+2010,Karnataka,Sugarcane,717.31,21.88,202.83,2.33
+2010,Karnataka,Cotton,800.52,27.37,109.63,1.38
+2010,Tamil Nadu,Wheat,868.99,31.96,146.55,1.58
+2010,Tamil Nadu,Rice,611.62,21.09,158.87,1.75
+2010,Tamil Nadu,Maize,1200.02,24.37,204.25,3.44
+2010,Tamil Nadu,Sugarcane,1379.85,20.59,172.08,3.21
+2010,Tamil Nadu,Cotton,842.05,34.8,121.37,1.16
+2010,Uttar Pradesh,Wheat,1218.16,30.54,183.95,2.45
+2010,Uttar Pradesh,Rice,926.46,27.77,113.18,1.51
+2010,Uttar Pradesh,Maize,633.2,21.18,159.54,1.58
+2010,Uttar Pradesh,Sugarcane,1167.54,30.34,220.09,2.84
+2010,Uttar Pradesh,Cotton,767.48,21.57,195.46,2.54
+2010,Gujarat,Wheat,631.59,34.04,107.8,0.66
+2010,Gujarat,Rice,1309.06,33.06,207.11,3.22
+2010,Gujarat,Maize,939.45,32.22,112.02,1.62
+2010,Gujarat,Sugarcane,1147.59,32.26,167.85,2.45
+2010,Gujarat,Cotton,1126.4,30.97,112.24,1.56
+2011,Maharashtra,Wheat,847.1,22.39,230.77,2.71
+2011,Maharashtra,Rice,1575.87,25.05,127.32,3.35
+2011,Maharashtra,Maize,1258.71,27.47,183.3,3.11
+2011,Maharashtra,Sugarcane,828.45,34.95,246.22,2.46
+2011,Maharashtra,Cotton,799.54,30.2,110.83,0.92
+2011,Punjab,Wheat,857.68,26.94,230.24,2.81
+2011,Punjab,Rice,1342.71,26.38,151.89,2.81
+2011,Punjab,Maize,1587.65,20.6,230.05,4.49
+2011,Punjab,Sugarcane,1038.62,30.88,173.0,2.49
+2011,Punjab,Cotton,1500.7,26.33,141.52,3.16
+2011,Karnataka,Wheat,1512.36,23.16,193.44,3.88
+2011,Karnataka,Rice,1333.11,21.97,207.37,3.89
+2011,Karnataka,Maize,779.68,23.56,245.71,2.65
+2011,Karnataka,Sugarcane,1454.39,27.38,137.08,3.13
+2011,Karnataka,Cotton,1045.31,27.72,153.89,2.3
+2011,Tamil Nadu,Wheat,763.52,25.87,245.41,2.54
+2011,Tamil Nadu,Rice,1256.74,24.88,216.02,3.21
+2011,Tamil Nadu,Maize,1569.82,26.81,135.41,2.9
+2011,Tamil Nadu,Sugarcane,769.76,27.8,150.55,1.85
+2011,Tamil Nadu,Cotton,1030.89,23.73,192.57,2.93
+2011,Uttar Pradesh,Wheat,767.04,22.51,105.5,1.61
+2011,Uttar Pradesh,Rice,1263.8,27.12,226.63,3.62
+2011,Uttar Pradesh,Maize,1185.35,33.02,130.88,1.8
+2011,Uttar Pradesh,Sugarcane,869.75,20.86,179.68,2.76
+2011,Uttar Pradesh,Cotton,639.34,21.83,167.83,2.13
+2011,Gujarat,Wheat,916.16,27.61,106.24,1.3
+2011,Gujarat,Rice,1586.63,34.48,100.74,2.73
+2011,Gujarat,Maize,1239.12,33.02,168.21,2.52
+2011,Gujarat,Sugarcane,1088.85,30.0,120.95,1.61
+2011,Gujarat,Cotton,907.93,30.57,130.28,1.69
+2012,Maharashtra,Wheat,1569.91,21.41,200.89,4.04
+2012,Maharashtra,Rice,1468.14,22.66,203.89,4.05
+2012,Maharashtra,Maize,1544.61,30.25,174.58,3.39
+2012,Maharashtra,Sugarcane,1468.9,28.56,104.56,2.81
+2012,Maharashtra,Cotton,1289.53,30.15,132.35,2.49
+2012,Punjab,Wheat,993.86,29.77,115.99,1.75
+2012,Punjab,Rice,1599.41,20.72,246.58,4.57
+2012,Punjab,Maize,1470.75,31.74,185.05,3.35
+2012,Punjab,Sugarcane,1478.52,26.06,149.05,3.25
+2012,Punjab,Cotton,1407.85,31.43,219.67,3.4
+2012,Karnataka,Wheat,1417.83,21.8,181.67,3.27
+2012,Karnataka,Rice,924.59,25.5,159.43,2.29
+2012,Karnataka,Maize,988.56,26.73,135.63,1.92
+2012,Karnataka,Sugarcane,827.27,21.1,190.52,2.61
+2012,Karnataka,Cotton,1219.49,26.95,156.97,2.88
+2012,Tamil Nadu,Wheat,1119.08,27.19,103.85,1.82
+2012,Tamil Nadu,Rice,980.2,25.98,187.03,2.55
+2012,Tamil Nadu,Maize,1207.91,31.47,221.95,3.19
+2012,Tamil Nadu,Sugarcane,1555.52,20.27,129.37,3.1
+2012,Tamil Nadu,Cotton,1247.47,33.47,136.52,2.44
+2012,Uttar Pradesh,Wheat,660.27,34.02,152.74,0.91
+2012,Uttar Pradesh,Rice,1085.87,23.85,142.73,2.29
+2012,Uttar Pradesh,Maize,1403.03,28.09,146.7,2.93
+2012,Uttar Pradesh,Sugarcane,1316.15,24.09,162.03,2.82
+2012,Uttar Pradesh,Cotton,781.15,30.22,127.22,1.34
+2012,Gujarat,Wheat,1309.05,21.6,185.1,3.24
+2012,Gujarat,Rice,1562.93,27.25,220.9,4.0
+2012,Gujarat,Maize,643.41,29.5,242.71,2.3
+2012,Gujarat,Sugarcane,1419.19,33.26,134.21,2.34
+2012,Gujarat,Cotton,1210.98,26.17,225.98,3.61
+2013,Maharashtra,Wheat,953.42,23.55,217.08,2.76
+2013,Maharashtra,Rice,1422.61,26.36,200.13,3.29
+2013,Maharashtra,Maize,1223.86,26.78,187.99,2.79
+2013,Maharashtra,Sugarcane,1336.87,32.94,132.51,2.11
+2013,Maharashtra,Cotton,623.64,29.63,191.06,1.7
+2013,Punjab,Wheat,831.95,25.86,189.17,2.26
+2013,Punjab,Rice,1587.79,22.05,204.27,4.06
+2013,Punjab,Maize,1028.2,30.76,203.87,2.85
+2013,Punjab,Sugarcane,728.39,21.56,208.65,2.51
+2013,Punjab,Cotton,874.16,21.19,112.85,2.05
+2013,Karnataka,Wheat,791.87,24.85,134.0,1.59
+2013,Karnataka,Rice,669.42,27.79,110.14,1.23
+2013,Karnataka,Maize,833.71,28.1,232.01,2.67
+2013,Karnataka,Sugarcane,1132.96,24.87,149.95,2.62
+2013,Karnataka,Cotton,1594.14,29.93,183.67,3.67
+2013,Tamil Nadu,Wheat,1065.21,20.9,184.34,3.2
+2013,Tamil Nadu,Rice,775.3,30.35,130.14,1.36
+2013,Tamil Nadu,Maize,696.68,26.76,213.42,2.1
+2013,Tamil Nadu,Sugarcane,1264.91,31.93,239.08,3.16
+2013,Tamil Nadu,Cotton,999.32,22.29,248.87,3.63
+2013,Uttar Pradesh,Wheat,1139.96,32.63,178.14,2.5
+2013,Uttar Pradesh,Rice,689.12,31.33,119.16,1.2
+2013,Uttar Pradesh,Maize,1382.03,30.63,105.42,2.17
+2013,Uttar Pradesh,Sugarcane,863.11,25.4,113.15,1.85
+2013,Uttar Pradesh,Cotton,1153.8,24.58,159.55,2.64
+2013,Gujarat,Wheat,1200.59,27.74,237.91,3.39
+2013,Gujarat,Rice,1592.16,32.77,131.28,3.12
+2013,Gujarat,Maize,716.37,32.26,157.09,1.62
+2013,Gujarat,Sugarcane,1468.06,32.09,218.5,3.4
+2013,Gujarat,Cotton,680.92,26.04,126.03,1.44
+2014,Maharashtra,Wheat,946.1,34.63,196.15,2.32
+2014,Maharashtra,Rice,732.52,32.93,238.41,2.19
+2014,Maharashtra,Maize,1206.25,31.47,126.23,2.1
+2014,Maharashtra,Sugarcane,998.66,22.2,155.13,2.18
+2014,Maharashtra,Cotton,625.81,22.03,244.47,2.62
+2014,Punjab,Wheat,1565.82,26.49,146.77,3.28
+2014,Punjab,Rice,1039.51,21.58,196.12,2.79
+2014,Punjab,Maize,1219.59,29.75,122.8,1.92
+2014,Punjab,Sugarcane,1380.76,26.9,108.72,2.8
+2014,Punjab,Cotton,657.78,30.43,247.55,2.11
+2014,Karnataka,Wheat,742.25,21.82,145.49,1.61
+2014,Karnataka,Rice,1292.16,20.93,176.41,3.6
+2014,Karnataka,Maize,1413.97,29.23,145.94,2.9
+2014,Karnataka,Sugarcane,1127.04,26.39,119.61,2.36
+2014,Karnataka,Cotton,1049.78,22.92,155.16,2.45
+2014,Tamil Nadu,Wheat,1427.54,31.0,215.4,3.17
+2014,Tamil Nadu,Rice,1016.15,27.22,102.88,1.56
+2014,Tamil Nadu,Maize,1360.29,22.06,180.3,3.25
+2014,Tamil Nadu,Sugarcane,612.12,23.62,246.38,2.69
+2014,Tamil Nadu,Cotton,1559.58,27.32,116.46,2.95
+2014,Uttar Pradesh,Wheat,1054.38,32.67,114.71,1.62
+2014,Uttar Pradesh,Rice,750.05,24.87,210.6,2.35
+2014,Uttar Pradesh,Maize,975.89,25.92,168.92,2.52
+2014,Uttar Pradesh,Sugarcane,1492.08,34.33,218.04,3.34
+2014,Uttar Pradesh,Cotton,1288.13,26.56,138.2,2.83
+2014,Gujarat,Wheat,638.43,33.53,169.22,1.38
+2014,Gujarat,Rice,1259.35,33.43,195.5,2.87
+2014,Gujarat,Maize,666.65,27.78,122.53,1.31
+2014,Gujarat,Sugarcane,1112.22,30.2,106.25,1.53
+2014,Gujarat,Cotton,1316.32,21.08,110.69,2.39
+2015,Maharashtra,Wheat,1556.5,31.06,152.99,2.97
+2015,Maharashtra,Rice,949.7,31.62,199.21,2.12
+2015,Maharashtra,Maize,774.11,21.48,199.05,2.62
+2015,Maharashtra,Sugarcane,865.05,20.31,112.33,2.12
+2015,Maharashtra,Cotton,895.44,31.54,193.7,2.08
+2015,Punjab,Wheat,805.69,21.82,192.25,2.61
+2015,Punjab,Rice,1243.9,27.95,106.29,2.43
+2015,Punjab,Maize,1398.71,24.39,247.0,4.11
+2015,Punjab,Sugarcane,1182.42,31.22,221.77,3.12
+2015,Punjab,Cotton,728.1,25.07,239.21,2.43
+2015,Karnataka,Wheat,972.17,26.48,165.91,2.35
+2015,Karnataka,Rice,1543.08,23.61,118.23,2.91
+2015,Karnataka,Maize,1486.92,29.69,142.89,3.11
+2015,Karnataka,Sugarcane,1461.37,32.7,237.84,3.52
+2015,Karnataka,Cotton,1355.04,26.91,226.3,3.76
+2015,Tamil Nadu,Wheat,1376.45,29.84,126.61,2.55
+2015,Tamil Nadu,Rice,1584.67,34.06,106.48,2.33
+2015,Tamil Nadu,Maize,731.73,30.89,222.67,1.97
+2015,Tamil Nadu,Sugarcane,1105.85,32.61,209.92,2.71
+2015,Tamil Nadu,Cotton,1190.35,27.63,144.63,2.48
+2015,Uttar Pradesh,Wheat,1288.89,33.1,195.44,3.03
+2015,Uttar Pradesh,Rice,760.07,26.92,101.4,1.04
+2015,Uttar Pradesh,Maize,1326.46,34.88,114.88,2.0
+2015,Uttar Pradesh,Sugarcane,1400.07,23.06,183.26,3.62
+2015,Uttar Pradesh,Cotton,1215.99,22.82,153.31,2.99
+2015,Gujarat,Wheat,1154.23,20.08,214.15,3.17
+2015,Gujarat,Rice,1345.73,23.04,243.71,3.9
+2015,Gujarat,Maize,926.93,22.23,145.84,2.43
+2015,Gujarat,Sugarcane,1596.33,25.52,167.29,3.72
+2015,Gujarat,Cotton,1486.2,28.9,158.73,3.06
+2016,Maharashtra,Wheat,1295.62,20.05,192.94,3.43
+2016,Maharashtra,Rice,1394.2,21.39,188.23,3.59
+2016,Maharashtra,Maize,1242.33,20.97,187.0,3.34
+2016,Maharashtra,Sugarcane,1160.66,29.05,201.47,3.07
+2016,Maharashtra,Cotton,869.82,32.38,174.74,1.61
+2016,Punjab,Wheat,658.55,25.01,217.73,2.37
+2016,Punjab,Rice,1388.61,27.76,166.03,2.84
+2016,Punjab,Maize,928.19,26.51,113.29,1.5
+2016,Punjab,Sugarcane,1198.23,31.03,249.75,3.6
+2016,Punjab,Cotton,1242.57,26.32,195.43,3.29
+2016,Karnataka,Wheat,718.34,26.15,225.97,2.32
+2016,Karnataka,Rice,1171.87,28.82,127.67,2.1
+2016,Karnataka,Maize,934.51,20.39,103.63,2.08
+2016,Karnataka,Sugarcane,873.07,27.77,144.81,2.07
+2016,Karnataka,Cotton,859.3,26.44,230.91,2.91
+2016,Tamil Nadu,Wheat,786.1,32.04,168.73,1.65
+2016,Tamil Nadu,Rice,733.48,21.21,209.19,2.5
+2016,Tamil Nadu,Maize,1036.85,30.94,214.83,2.47
+2016,Tamil Nadu,Sugarcane,1210.23,22.03,212.71,3.54
+2016,Tamil Nadu,Cotton,1556.61,21.03,108.56,3.02
+2016,Uttar Pradesh,Wheat,861.71,23.7,235.94,2.75
+2016,Uttar Pradesh,Rice,871.95,31.39,167.46,2.01
+2016,Uttar Pradesh,Maize,665.37,27.31,105.04,0.75
+2016,Uttar Pradesh,Sugarcane,1506.44,22.09,179.86,3.65
+2016,Uttar Pradesh,Cotton,947.34,33.5,103.27,1.35
+2016,Gujarat,Wheat,1563.39,28.4,240.52,3.84
+2016,Gujarat,Rice,1018.79,23.9,209.62,3.23
+2016,Gujarat,Maize,856.53,29.81,129.71,1.56
+2016,Gujarat,Sugarcane,1063.93,34.58,191.28,2.22
+2016,Gujarat,Cotton,714.1,22.27,133.8,1.5
+2017,Maharashtra,Wheat,1450.62,28.42,178.51,3.03
+2017,Maharashtra,Rice,1460.14,30.84,110.15,2.6
+2017,Maharashtra,Maize,1143.54,21.23,168.75,2.9
+2017,Maharashtra,Sugarcane,765.77,34.19,227.5,2.2
+2017,Maharashtra,Cotton,1062.3,26.18,197.65,2.82
+2017,Punjab,Wheat,662.27,27.69,220.96,2.13
+2017,Punjab,Rice,651.96,31.79,130.2,0.87
+2017,Punjab,Maize,764.71,24.95,213.51,2.43
+2017,Punjab,Sugarcane,804.88,33.17,231.94,2.49
+2017,Punjab,Cotton,838.8,26.77,247.75,2.98
+2017,Karnataka,Wheat,627.17,20.98,169.59,2.15
+2017,Karnataka,Rice,1138.7,27.47,115.82,2.16
+2017,Karnataka,Maize,1422.1,25.71,216.34,4.0
+2017,Karnataka,Sugarcane,803.77,27.85,143.07,1.82
+2017,Karnataka,Cotton,1177.59,29.52,219.69,3.01
+2017,Tamil Nadu,Wheat,1515.09,28.0,123.69,2.98
+2017,Tamil Nadu,Rice,1393.26,24.75,228.58,4.08
+2017,Tamil Nadu,Maize,876.9,34.75,121.11,1.05
+2017,Tamil Nadu,Sugarcane,784.22,33.41,198.14,1.67
+2017,Tamil Nadu,Cotton,1040.32,29.23,112.52,1.97
+2017,Uttar Pradesh,Wheat,1403.6,27.58,245.07,3.83
+2017,Uttar Pradesh,Rice,1584.11,30.02,195.2,3.42
+2017,Uttar Pradesh,Maize,1481.93,26.41,124.34,2.59
+2017,Uttar Pradesh,Sugarcane,1159.76,27.91,207.9,3.24
+2017,Uttar Pradesh,Cotton,679.41,30.97,128.11,1.31
+2017,Gujarat,Wheat,1419.06,28.11,206.54,3.39
+2017,Gujarat,Rice,1071.17,32.32,168.89,2.13
+2017,Gujarat,Maize,1094.21,32.42,150.28,1.87
+2017,Gujarat,Sugarcane,1312.01,32.39,115.1,2.0
+2017,Gujarat,Cotton,741.97,25.22,167.55,2.05
+2018,Maharashtra,Wheat,1251.15,29.31,152.86,2.77
+2018,Maharashtra,Rice,1071.29,34.69,195.12,2.14
+2018,Maharashtra,Maize,1276.18,24.88,202.95,3.08
+2018,Maharashtra,Sugarcane,774.88,32.84,134.08,1.45
+2018,Maharashtra,Cotton,879.28,29.64,204.12,2.33
+2018,Punjab,Wheat,905.31,23.19,104.98,1.58
+2018,Punjab,Rice,1253.16,34.07,230.68,3.27
+2018,Punjab,Maize,1388.45,29.97,139.04,2.91
+2018,Punjab,Sugarcane,1270.73,28.41,116.65,2.26
+2018,Punjab,Cotton,1060.36,32.97,182.0,2.22
+2018,Karnataka,Wheat,1576.8,21.66,163.38,3.43
+2018,Karnataka,Rice,1339.9,33.77,142.01,2.63
+2018,Karnataka,Maize,892.22,33.66,213.09,2.42
+2018,Karnataka,Sugarcane,618.01,34.44,209.0,1.49
+2018,Karnataka,Cotton,1429.39,24.22,230.91,3.72
+2018,Tamil Nadu,Wheat,1303.69,28.11,114.48,2.19
+2018,Tamil Nadu,Rice,612.4,27.03,145.19,1.38
+2018,Tamil Nadu,Maize,897.24,24.5,211.48,2.41
+2018,Tamil Nadu,Sugarcane,1502.89,32.78,200.17,3.42
+2018,Tamil Nadu,Cotton,1492.3,22.78,111.85,2.81
+2018,Uttar Pradesh,Wheat,1394.58,20.52,187.42,3.93
+2018,Uttar Pradesh,Rice,1455.7,27.82,109.55,2.81
+2018,Uttar Pradesh,Maize,1198.98,21.72,114.08,2.7
+2018,Uttar Pradesh,Sugarcane,1269.2,32.44,231.85,3.28
+2018,Uttar Pradesh,Cotton,1117.45,26.46,147.54,2.35
+2018,Gujarat,Wheat,1373.88,29.03,233.88,3.6
+2018,Gujarat,Rice,1207.09,29.47,188.75,2.95
+2018,Gujarat,Maize,837.43,27.69,115.63,1.38
+2018,Gujarat,Sugarcane,1087.67,29.78,242.58,3.17
+2018,Gujarat,Cotton,1343.59,27.59,195.12,3.0
+2019,Maharashtra,Wheat,854.39,25.43,170.87,1.87
+2019,Maharashtra,Rice,740.02,24.15,245.73,2.63
+2019,Maharashtra,Maize,1082.04,22.94,191.62,2.8
+2019,Maharashtra,Sugarcane,806.99,27.75,100.83,0.94
+2019,Maharashtra,Cotton,819.07,20.55,116.2,1.68
+2019,Punjab,Wheat,1402.59,28.58,176.9,3.02
+2019,Punjab,Rice,1531.75,25.96,113.06,2.97
+2019,Punjab,Maize,713.84,25.18,176.11,2.15
+2019,Punjab,Sugarcane,1093.55,30.53,248.92,2.93
+2019,Punjab,Cotton,874.73,25.92,163.27,2.03
+2019,Karnataka,Wheat,1507.61,30.71,191.19,3.28
+2019,Karnataka,Rice,1423.79,34.33,223.18,3.06
+2019,Karnataka,Maize,1236.4,20.77,138.64,2.56
+2019,Karnataka,Sugarcane,1203.8,30.3,117.17,1.99
+2019,Karnataka,Cotton,1056.24,25.54,118.15,1.97
+2019,Tamil Nadu,Wheat,1351.18,21.07,112.03,2.68
+2019,Tamil Nadu,Rice,1541.73,30.03,201.8,3.52
+2019,Tamil Nadu,Maize,1193.66,20.15,195.41,3.58
+2019,Tamil Nadu,Sugarcane,1212.57,33.11,208.6,2.63
+2019,Tamil Nadu,Cotton,1502.45,21.0,180.1,3.54
+2019,Uttar Pradesh,Wheat,611.71,26.33,144.26,1.34
+2019,Uttar Pradesh,Rice,1177.2,20.66,118.45,2.54
+2019,Uttar Pradesh,Maize,943.17,30.94,197.84,2.53
+2019,Uttar Pradesh,Sugarcane,1292.49,26.45,200.94,3.14
+2019,Uttar Pradesh,Cotton,906.31,31.83,166.96,2.07
+2019,Gujarat,Wheat,1422.42,32.86,237.5,3.54
+2019,Gujarat,Rice,918.87,28.73,155.68,2.02
+2019,Gujarat,Maize,1305.59,30.33,156.18,2.46
+2019,Gujarat,Sugarcane,1030.53,22.14,233.51,3.2
+2019,Gujarat,Cotton,754.46,20.38,196.87,2.54
+2020,Maharashtra,Wheat,940.6,21.08,161.44,2.33
+2020,Maharashtra,Rice,1277.12,29.09,154.69,2.48
+2020,Maharashtra,Maize,1588.04,26.81,203.24,3.65
+2020,Maharashtra,Sugarcane,1085.59,20.41,175.82,3.19
+2020,Maharashtra,Cotton,984.21,20.58,104.64,1.92
+2020,Punjab,Wheat,760.02,20.35,213.43,2.61
+2020,Punjab,Rice,889.24,33.5,117.42,1.55
+2020,Punjab,Maize,913.97,33.33,190.44,2.26
+2020,Punjab,Sugarcane,1584.01,24.33,244.17,4.33
+2020,Punjab,Cotton,985.51,25.11,181.21,2.32
+2020,Karnataka,Wheat,1153.71,28.13,214.29,3.24
+2020,Karnataka,Rice,1040.44,24.53,138.9,2.06
+2020,Karnataka,Maize,657.65,25.14,140.54,1.74
+2020,Karnataka,Sugarcane,1157.71,25.21,187.07,2.71
+2020,Karnataka,Cotton,1044.04,29.39,173.33,2.29
+2020,Tamil Nadu,Wheat,1593.85,33.2,193.51,3.5
+2020,Tamil Nadu,Rice,1220.66,23.02,159.27,2.61
+2020,Tamil Nadu,Maize,1075.55,28.15,134.16,2.36
+2020,Tamil Nadu,Sugarcane,1509.45,30.83,180.01,3.5
+2020,Tamil Nadu,Cotton,730.65,31.86,118.72,1.23
+2020,Uttar Pradesh,Wheat,875.77,33.16,241.61,2.3
+2020,Uttar Pradesh,Rice,1062.68,34.71,172.51,2.33
+2020,Uttar Pradesh,Maize,1188.73,25.63,142.87,2.35
+2020,Uttar Pradesh,Sugarcane,1361.8,25.8,176.69,3.2
+2020,Uttar Pradesh,Cotton,1177.28,32.98,247.11,3.12
+2020,Gujarat,Wheat,1427.52,31.47,186.03,3.42
+2020,Gujarat,Rice,800.47,21.64,228.09,2.76
+2020,Gujarat,Maize,1446.97,33.4,109.37,2.55
+2020,Gujarat,Sugarcane,1048.32,27.66,193.99,2.91
+2020,Gujarat,Cotton,619.12,27.15,203.16,2.05
+2021,Maharashtra,Wheat,1292.53,22.02,144.91,2.85
+2021,Maharashtra,Rice,1404.44,24.18,131.61,3.19
+2021,Maharashtra,Maize,608.86,34.97,201.52,1.68
+2021,Maharashtra,Sugarcane,894.62,20.21,210.68,3.09
+2021,Maharashtra,Cotton,1340.48,22.14,213.01,3.87
+2021,Punjab,Wheat,1258.54,31.49,226.89,3.28
+2021,Punjab,Rice,688.6,27.31,111.65,1.07
+2021,Punjab,Maize,1007.11,20.99,152.32,2.25
+2021,Punjab,Sugarcane,1408.24,34.22,110.85,2.49
+2021,Punjab,Cotton,1122.58,24.49,111.53,2.14
+2021,Karnataka,Wheat,1394.52,30.61,107.53,2.08
+2021,Karnataka,Rice,1002.87,24.43,134.86,2.0
+2021,Karnataka,Maize,1403.48,33.94,160.77,2.96
+2021,Karnataka,Sugarcane,921.5,27.15,133.9,1.91
+2021,Karnataka,Cotton,1578.98,29.05,153.67,3.33
+2021,Tamil Nadu,Wheat,722.92,33.33,175.46,1.5
+2021,Tamil Nadu,Rice,1185.86,29.37,110.77,2.12
+2021,Tamil Nadu,Maize,841.93,30.71,223.38,2.56
+2021,Tamil Nadu,Sugarcane,1152.5,27.8,121.43,2.29
+2021,Tamil Nadu,Cotton,871.41,27.45,142.64,1.58
+2021,Uttar Pradesh,Wheat,1229.56,20.81,212.3,3.43
+2021,Uttar Pradesh,Rice,600.13,27.67,107.03,0.75
+2021,Uttar Pradesh,Maize,1306.98,20.94,225.9,3.53
+2021,Uttar Pradesh,Sugarcane,846.82,31.11,147.44,1.37
+2021,Uttar Pradesh,Cotton,960.23,24.06,226.41,2.87
+2021,Gujarat,Wheat,1388.93,33.38,165.07,3.01
+2021,Gujarat,Rice,977.32,34.46,113.39,1.48
+2021,Gujarat,Maize,1093.81,25.81,194.91,2.97
+2021,Gujarat,Sugarcane,604.36,22.5,206.96,2.25
+2021,Gujarat,Cotton,1566.05,31.42,242.62,4.11
+2022,Maharashtra,Wheat,898.05,21.58,217.27,2.98
+2022,Maharashtra,Rice,648.19,25.4,243.52,2.46
+2022,Maharashtra,Maize,1032.73,26.87,131.33,1.96
+2022,Maharashtra,Sugarcane,969.81,20.79,215.14,3.0
+2022,Maharashtra,Cotton,1422.18,32.76,131.8,2.62
+2022,Punjab,Wheat,1072.28,33.2,132.36,1.91
+2022,Punjab,Rice,1207.75,24.43,120.49,2.49
+2022,Punjab,Maize,1338.6,24.73,196.72,3.34
+2022,Punjab,Sugarcane,1313.21,22.99,233.53,3.68
+2022,Punjab,Cotton,967.79,20.87,116.73,2.07
+2022,Karnataka,Wheat,867.59,32.53,102.2,1.06
+2022,Karnataka,Rice,937.35,20.29,118.66,1.99
+2022,Karnataka,Maize,1092.86,26.06,179.64,2.74
+2022,Karnataka,Sugarcane,609.92,26.96,244.52,2.33
+2022,Karnataka,Cotton,1277.54,24.68,216.1,3.65
+2022,Tamil Nadu,Wheat,1121.3,34.64,118.83,1.41
+2022,Tamil Nadu,Rice,1370.16,32.11,118.03,2.17
+2022,Tamil Nadu,Maize,617.55,24.4,215.97,2.19
+2022,Tamil Nadu,Sugarcane,948.1,25.58,100.2,1.5
+2022,Tamil Nadu,Cotton,1246.46,34.61,227.06,2.75
+2022,Uttar Pradesh,Wheat,1498.56,31.75,217.06,3.56
+2022,Uttar Pradesh,Rice,998.01,24.54,109.85,1.7
+2022,Uttar Pradesh,Maize,846.6,27.26,212.12,2.44
+2022,Uttar Pradesh,Sugarcane,657.84,34.37,241.41,2.18
+2022,Uttar Pradesh,Cotton,1591.33,28.17,244.42,3.96
+2022,Gujarat,Wheat,965.68,23.38,129.37,1.84
+2022,Gujarat,Rice,1222.41,31.72,186.74,2.51
+2022,Gujarat,Maize,1411.12,29.54,158.22,3.03
+2022,Gujarat,Sugarcane,859.9,25.18,237.62,2.71
+2022,Gujarat,Cotton,1069.99,33.35,206.16,2.27
+2023,Maharashtra,Wheat,747.3,20.12,194.64,2.4
+2023,Maharashtra,Rice,734.27,34.37,179.45,1.39
+2023,Maharashtra,Maize,1100.6,30.19,111.44,1.67
+2023,Maharashtra,Sugarcane,1406.97,26.89,181.99,3.25
+2023,Maharashtra,Cotton,643.9,22.49,166.83,1.66
+2023,Punjab,Wheat,649.98,32.65,247.18,2.31
+2023,Punjab,Rice,1453.78,23.63,244.09,3.99
+2023,Punjab,Maize,1551.43,34.92,206.76,3.71
+2023,Punjab,Sugarcane,1169.54,23.89,165.55,2.86
+2023,Punjab,Cotton,673.08,29.34,247.18,2.17
+2023,Karnataka,Wheat,1392.6,33.62,241.56,3.8
+2023,Karnataka,Rice,1121.46,34.66,213.6,2.44
+2023,Karnataka,Maize,1076.9,30.77,137.1,2.07
+2023,Karnataka,Sugarcane,1266.6,22.44,184.76,3.42
+2023,Karnataka,Cotton,1098.9,20.18,101.36,2.12
+2023,Tamil Nadu,Wheat,1526.19,23.43,195.15,3.67
+2023,Tamil Nadu,Rice,921.67,32.72,209.33,2.06
+2023,Tamil Nadu,Maize,1028.7,20.44,172.13,2.85
+2023,Tamil Nadu,Sugarcane,718.5,24.33,159.68,2.07
+2023,Tamil Nadu,Cotton,1593.26,20.67,214.15,4.22
+2023,Uttar Pradesh,Wheat,992.46,31.31,237.76,3.07
+2023,Uttar Pradesh,Rice,1177.12,25.36,218.13,3.12
+2023,Uttar Pradesh,Maize,1164.07,25.38,198.49,2.89
+2023,Uttar Pradesh,Sugarcane,791.59,33.77,115.27,1.05
+2023,Uttar Pradesh,Cotton,820.85,20.58,105.4,1.47
+2023,Gujarat,Wheat,1466.77,24.24,242.57,4.2
+2023,Gujarat,Rice,1036.61,28.7,177.5,2.57
+2023,Gujarat,Maize,882.5,25.3,234.11,3.11
+2023,Gujarat,Sugarcane,1492.56,26.29,217.05,3.83
+2023,Gujarat,Cotton,1097.54,23.07,188.67,2.74
+2024,Maharashtra,Wheat,931.56,32.83,131.06,1.28
+2024,Maharashtra,Rice,669.01,34.11,176.04,1.34
+2024,Maharashtra,Maize,1410.88,32.54,149.83,2.81
+2024,Maharashtra,Sugarcane,1371.12,29.82,122.74,2.7
+2024,Maharashtra,Cotton,1139.09,24.24,163.78,2.43
+2024,Punjab,Wheat,727.87,31.48,100.0,0.83
+2024,Punjab,Rice,1122.51,20.82,245.96,3.5
+2024,Punjab,Maize,904.2,24.56,134.56,1.63
+2024,Punjab,Sugarcane,1329.34,34.5,133.64,2.37
+2024,Punjab,Cotton,1341.9,32.73,163.39,2.56
+2024,Karnataka,Wheat,925.3,30.69,222.52,2.35
+2024,Karnataka,Rice,970.94,33.53,221.0,2.77
+2024,Karnataka,Maize,1354.25,25.9,188.6,3.4
+2024,Karnataka,Sugarcane,678.46,28.17,206.4,1.81
+2024,Karnataka,Cotton,1380.63,28.76,242.83,3.48
+2024,Tamil Nadu,Wheat,865.33,29.02,144.48,1.85
+2024,Tamil Nadu,Rice,1359.01,21.54,177.08,3.42
+2024,Tamil Nadu,Maize,969.28,33.99,224.13,2.6
+2024,Tamil Nadu,Sugarcane,1314.33,26.93,238.15,3.78
+2024,Tamil Nadu,Cotton,1328.98,32.93,141.11,2.61
+2024,Uttar Pradesh,Wheat,795.24,25.18,150.34,2.12
+2024,Uttar Pradesh,Rice,1456.54,30.52,209.06,3.52
+2024,Uttar Pradesh,Maize,1547.09,27.44,157.08,3.09
+2024,Uttar Pradesh,Sugarcane,1386.21,31.02,157.65,2.51
+2024,Uttar Pradesh,Cotton,1439.0,20.17,205.55,4.21
+2024,Gujarat,Wheat,1037.66,23.52,205.73,3.15
+2024,Gujarat,Rice,1146.43,34.51,107.75,1.65
+2024,Gujarat,Maize,1318.45,32.94,126.89,2.44
+2024,Gujarat,Sugarcane,1152.71,25.95,119.76,2.42
+2024,Gujarat,Cotton,757.27,24.65,143.51,1.94
+2025,Maharashtra,Wheat,1272.7,31.95,137.57,2.4
+2025,Maharashtra,Rice,1171.75,32.49,235.91,2.79
+2025,Maharashtra,Maize,1274.02,20.78,182.33,3.21
+2025,Maharashtra,Sugarcane,906.78,25.29,193.19,2.38
+2025,Maharashtra,Cotton,1332.7,26.07,110.25,2.63
+2025,Punjab,Wheat,885.76,26.49,202.82,2.37
+2025,Punjab,Rice,656.59,25.61,241.67,2.53
+2025,Punjab,Maize,1271.48,29.48,129.85,2.32
+2025,Punjab,Sugarcane,1350.94,21.52,141.68,2.91
+2025,Punjab,Cotton,1032.02,34.71,110.13,1.44
+2025,Karnataka,Wheat,779.36,34.56,117.0,0.94
+2025,Karnataka,Rice,1337.88,30.57,163.41,2.69
+2025,Karnataka,Maize,997.61,23.96,130.8,2.09
+2025,Karnataka,Sugarcane,868.53,24.31,198.51,2.79
+2025,Karnataka,Cotton,1203.64,21.15,111.34,2.73
+2025,Tamil Nadu,Wheat,897.29,21.38,189.86,2.7
+2025,Tamil Nadu,Rice,1248.5,24.01,102.27,2.6
+2025,Tamil Nadu,Maize,850.89,30.14,205.99,2.32
+2025,Tamil Nadu,Sugarcane,912.91,24.07,189.65,2.74
+2025,Tamil Nadu,Cotton,1546.73,21.59,123.22,3.51
+2025,Uttar Pradesh,Wheat,1336.54,33.24,130.39,2.37
+2025,Uttar Pradesh,Rice,1301.14,30.2,161.22,2.41
+2025,Uttar Pradesh,Maize,1182.93,23.8,167.54,3.13
+2025,Uttar Pradesh,Sugarcane,999.04,32.6,128.28,1.75
+2025,Uttar Pradesh,Cotton,1577.01,21.53,101.25,3.05
+2025,Gujarat,Wheat,692.63,31.23,237.18,2.16
+2025,Gujarat,Rice,858.71,26.52,208.52,2.18
+2025,Gujarat,Maize,1189.45,29.2,195.65,2.72
+2025,Gujarat,Sugarcane,1314.05,21.37,129.89,3.08
+2025,Gujarat,Cotton,1338.72,20.21,137.26,2.87
